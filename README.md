@@ -1,6 +1,8 @@
-# 📚 Language Learning Assistant
+# 📚 ScarTalk - Revolutionizing the Way You Learn Languages
 
 This project is an interactive assistant that helps in language learning by generating useful phrases and dialogues in various languages. Simply choose a language and a topic, and the program will provide practical examples for study.
+
+![Image](https://github.com/user-attachments/assets/f4d61e07-90b1-4374-9433-a971c8031ded)
 
 ## 🚀 Features
 
